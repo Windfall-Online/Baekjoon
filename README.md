@@ -1,2 +1,2 @@
-# baekjoon
-baekjoon-solve
+# Baekjoon
+Baekjoon-solve
